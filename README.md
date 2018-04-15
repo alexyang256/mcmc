@@ -11,6 +11,10 @@ To do:
       5. Normalize
       6. Remove 0 rows
       7. Now, you have the FINAL TRANSITION MATRIX FOR THIS SET OF SONGS (LHS AND RHS).
-      8. Find stationary distribution (tihs will be our initial distribution of starting notes)
+      8. Find stationary distribution (this will be our initial distribution of starting notes)
 
-2.  Figure out how to add rests/timing into the mix (a 2nd, underlying markov chain?)
+2.  Figure out how to add rests/timing into the mix (a 2nd, underlying markov chain? CTMC?)
+
+3.  Fixing 'harmony' to be more dependent/related to 'melody':
+      1. multiple chain idea - create list of notes indexed by absolute time 
+      
