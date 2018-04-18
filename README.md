@@ -18,3 +18,5 @@ To do:
 3.  Fixing 'harmony' to be more dependent/related to 'melody':
       - DONE - MADE LH SOMEWHAT DEPENDENT ON RH. SOUNDS ALRIGHT.
       
+4.  Add stationary distribution functionality to analyze different songs from different time periods.
+      
