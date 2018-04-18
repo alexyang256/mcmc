@@ -16,5 +16,5 @@ To do:
 2.  Figure out how to add rests/timing into the mix (a 2nd, underlying markov chain? CTMC?)
 
 3.  Fixing 'harmony' to be more dependent/related to 'melody':
-      1. multiple chain idea - create list of notes indexed by absolute time 
+      - DONE - MADE LH SOMEWHAT DEPENDENT ON RH. SOUNDS ALRIGHT.
       
